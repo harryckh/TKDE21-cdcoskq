@@ -1,0 +1,1 @@
+1	1	1	1	120	2	192608	yelp-loc	1300	yelp-doc	1	yelp-tree	3	50	10	40	3
